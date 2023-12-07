@@ -3,15 +3,15 @@
 <h1 align="center">QR code component challenge</h1>
 <div align="center">
   <h3>
-    <a href="https://arshavinod14.github.io/Frontend-Mentor-QR-code-component/" color="white" target="_blank">
+    <a href="https://arshavinod14.github.io/Frontend-Mentor-QR-code-component/" target="_blank" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/qrcodecomponent-44D-INHuX5">
+    <a href="https://www.frontendmentor.io/solutions/qrcodecomponent-44D-INHuX5"  target="_blank">
       Solution
     </a>
    <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
+    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">
       Challenge
     </a>
   </h3>
@@ -28,9 +28,5 @@
 - Semantic HTML5 markup
 - Flexbox
 
-### What I learned
-
-* Learned to set CSS **custom properties**
-* Learned to use **Flexbox** 
 
 
