@@ -3,7 +3,7 @@
 <h1 align="center">QR code component challenge</h1>
 <div align="center">
   <h3>
-    <a href="https://arshavinod14.github.io/Frontend-Mentor-QR-code-component/" color="white">
+    <a href="https://arshavinod14.github.io/Frontend-Mentor-QR-code-component/" color="white" target="_blank">
       Live
     </a>
     <span> | </span>
